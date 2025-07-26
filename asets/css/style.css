@@ -39,7 +39,13 @@ body{
     align-items: center;
 }
 
-.left{
+.image{
     justify-content: space-between;
-    width: 20px;
-}
+    text-align: left;
+    width: 732px;
+    height: auto;
+ }
+
+ .button-1{
+    display: flex;
+ }
