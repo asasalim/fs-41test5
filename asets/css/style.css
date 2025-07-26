@@ -19,6 +19,27 @@ body{
 
 .logo{
     display: flex; 
-    
+     justify-content: space-between;
 }
 
+.nav-link{
+    align-items: center;
+    margin-left: 20px;
+}
+
+.intro{
+    align-items: center;
+}
+
+.process{
+    display: inline-block;
+}
+
+.right{
+    align-items: center;
+}
+
+.left{
+    justify-content: space-between;
+    width: 20px;
+}
